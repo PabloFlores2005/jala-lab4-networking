@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3t1NQOQlCNQAx9Dc0HDVPlEZpExS+PutshPd8PfIHUC4SRMVd5h8IlwynJneyxhtR/GMS9YyLZOHd05kIeBP/w==",
+  "success": true,
+  "projectFilePath": "/home/university/RiderProjects/Lab4Activity3/Lab4Activity3/Lab4Activity3.csproj",
+  "expectedPackageFiles": [
+    "/home/university/.nuget/packages/mqttnet/4.3.7.1207/mqttnet.4.3.7.1207.nupkg.sha512"
+  ],
+  "logs": []
+}

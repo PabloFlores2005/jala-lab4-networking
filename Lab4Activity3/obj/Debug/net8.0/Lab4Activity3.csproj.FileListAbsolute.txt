@@ -1,0 +1,17 @@
+/home/university/RiderProjects/Lab4Activity3/Lab4Activity3/bin/Debug/net8.0/Lab4Activity3
+/home/university/RiderProjects/Lab4Activity3/Lab4Activity3/bin/Debug/net8.0/Lab4Activity3.deps.json
+/home/university/RiderProjects/Lab4Activity3/Lab4Activity3/bin/Debug/net8.0/Lab4Activity3.runtimeconfig.json
+/home/university/RiderProjects/Lab4Activity3/Lab4Activity3/bin/Debug/net8.0/Lab4Activity3.dll
+/home/university/RiderProjects/Lab4Activity3/Lab4Activity3/bin/Debug/net8.0/Lab4Activity3.pdb
+/home/university/RiderProjects/Lab4Activity3/Lab4Activity3/bin/Debug/net8.0/MQTTnet.dll
+/home/university/RiderProjects/Lab4Activity3/Lab4Activity3/obj/Debug/net8.0/Lab4Activity3.csproj.AssemblyReference.cache
+/home/university/RiderProjects/Lab4Activity3/Lab4Activity3/obj/Debug/net8.0/Lab4Activity3.GeneratedMSBuildEditorConfig.editorconfig
+/home/university/RiderProjects/Lab4Activity3/Lab4Activity3/obj/Debug/net8.0/Lab4Activity3.AssemblyInfoInputs.cache
+/home/university/RiderProjects/Lab4Activity3/Lab4Activity3/obj/Debug/net8.0/Lab4Activity3.AssemblyInfo.cs
+/home/university/RiderProjects/Lab4Activity3/Lab4Activity3/obj/Debug/net8.0/Lab4Activity3.csproj.CoreCompileInputs.cache
+/home/university/RiderProjects/Lab4Activity3/Lab4Activity3/obj/Debug/net8.0/Lab4Acti.43A85568.Up2Date
+/home/university/RiderProjects/Lab4Activity3/Lab4Activity3/obj/Debug/net8.0/Lab4Activity3.dll
+/home/university/RiderProjects/Lab4Activity3/Lab4Activity3/obj/Debug/net8.0/refint/Lab4Activity3.dll
+/home/university/RiderProjects/Lab4Activity3/Lab4Activity3/obj/Debug/net8.0/Lab4Activity3.pdb
+/home/university/RiderProjects/Lab4Activity3/Lab4Activity3/obj/Debug/net8.0/Lab4Activity3.genruntimeconfig.cache
+/home/university/RiderProjects/Lab4Activity3/Lab4Activity3/obj/Debug/net8.0/ref/Lab4Activity3.dll
